@@ -1,0 +1,29 @@
+:root {
+    --bs-primary: #3a416f !important;
+}
+
+.btn-primary {
+    background-color: #3a416f !important;
+    border-color: #3a416f !important;
+}
+
+.btn-primary:hover {
+    background-color: #2d3250 !important;
+    border-color: #2d3250 !important;
+}
+
+.bg-primary {
+    background-color: #3a416f !important;
+}
+
+.text-primary {
+    color: #3a416f !important;
+}
+
+.border-primary {
+    border-color: #3a416f !important;
+}
+
+.sidenav .navbar-nav .nav-link.active i {
+    color: white !important;     /* Warna icon saat active */
+}
